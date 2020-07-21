@@ -1,6 +1,6 @@
 # staff
 
-> 明亿商超系统
+> 商超系统
 
 ## Build Setup
 
